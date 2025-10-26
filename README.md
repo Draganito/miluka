@@ -7,14 +7,10 @@ https://ebay.us/m/t5jnZb
 
 
 Custom Non-Commercial License
-
 Copyright (c) 2025 Dragan Bojovic
-
-Permission is granted to individuals (natural persons) for non-commercial use only: to view, download, and modify this software privately.
-
-No permission is granted for commercial use, distribution, or use by organizations.
-
-THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+Individuals and non-profit educational organizations may download, CNC-mill or 3D-print the files for personal/educational use, and modify privately.
+No commercial use, distribution, or use by other organizations.
+AS IS, WITHOUT WARRANTY.
 
 
 ![Alt text](https://github.com/Draganito/miluka-zone/blob/main/miluka_back.jpeg)
