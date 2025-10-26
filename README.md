@@ -1,5 +1,5 @@
 # miluka zone
-Medium format camera developed for Mamiya RB67 6x7 or 6x8 back or Graflock 23 compatible backs like sheet film holders etc. The idea is to salvage functional lenses from old camera bodies for reuse in a new robust body with perfect plane alignment, smooth focusing, and pro-grade film backs. Front and back are glued together, with hidden screw nuts in between to fix the back holder. Can be milled from hardwood or POM, or 3D printed. Tripod mount and hot shoe can be attached after printing/milling. Recommended helicoid: 17-31mm. Recommended lenses: from various 6x6 folding cameras like Zeiss Ikonta (e.g., Tessar, Novar), Agfa Isolette (e.g., Solinar, Apotar), etc. Focusing via ground glass or zone focusing. Intended for use with Chinese M65 helicoids and flange mounts.
+Revive classic lenses with my innovative medium format camera body—compatible with Mamiya RB67 6x7/6x8 or Graflock 23 backs. Salvage Tessar, Novar, Solinar, or Apotar optics from vintage folders like Zeiss Ikonta or Agfa Isolette. Precision-milled from hardwood, POM, or 3D-printed for flawless alignment and smooth focusing via M65 helicoids (17-31mm). Add tripod mount and hot shoe for pro setups. Eco-friendly upcycling meets modern reliability—capture stunning film shots affordably!
 
 https://ebay.us/m/aWPh1E
 https://ebay.us/m/IKsyLB
