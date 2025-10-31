@@ -17,6 +17,5 @@ AS IS, WITHOUT WARRANTY.
 ![Alt text](https://github.com/Draganito/miluka-zone/blob/main/miluka_back.jpeg)
 ![Alt text](https://github.com/Draganito/miluka-zone/blob/main/miluka_front.jpeg
 )
-![Alt text](https://github.com/Draganito/miluka-zone/blob/main/miluka_uni.jpeg)
-![Alt text](https://github.com/Draganito/miluka-zone/blob/main/miluka_uni2.jpeg)
-![Alt text](https://github.com/Draganito/miluka-zone/blob/main/Rendering.png)
+![Alt text](https://github.com/Draganito/miluka-zone/blob/main/miluka_unibody.jpeg)
+![Alt text](https://github.com/Draganito/miluka-zone/blob/main/miluka_unibody2.jpeg)
